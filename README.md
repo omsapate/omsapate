@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on Machine Learning based project (PS: Can't reveal details)
 - 🌱 I’m currently learning Python (Machine Learning and other required stuff)
 - 💬 Ask me about Python, Tech Career, etc.
-- 📫 How to reach me: sapateom1@gmail.com
+- 📫 How to reach me: <a href="mailto:sapateom1@gmail.com">Gmail</a> <a href="https://www.linkedin.com/in/omsapate">LinkedIn</a> <a href="https://www.twitter.com/om_sapate">Twitter</a>
 - ⚡ Fun fact: I am ambivert

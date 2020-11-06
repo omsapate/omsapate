@@ -5,5 +5,5 @@
 <!-- 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 😄 Pronouns: ... -->
 
 - 🔭 I’m currently working on Machine Learning based project
-- 🌱 I’m currently learning Python and Frontend technplogies
+- 🌱 I’m currently learning Python and Frontend technologies
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/omsapate">LinkedIn</a> <a href="https://www.twitter.com/om_sapate">Twitter</a>

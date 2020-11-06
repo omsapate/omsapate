@@ -7,3 +7,6 @@
 - 🔭 I’m currently working on Machine Learning based project
 - 🌱 I’m currently learning Python and Frontend technologies
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/omsapate">LinkedIn</a> <a href="https://www.twitter.com/om_sapate">Twitter</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsapate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -6,8 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=omsapate)
 
-- 👨‍💻 Working as Senior Software Engineer at Persistent Systems, having responsibility as Backend Developer.
-- 🔭 Have a hands-on experience in C# .NET, Azure Cloud, SQL, MS SQL Server, Azure Data Factory.
+- 👨‍💻 Working as Lead Software Engineer at Persistent Systems, having responsibility as Backend Developer.
+- 🔭 Have a hands-on experience in C# .NET, Azure Cloud, SQL, MS SQL Server, Azure Data Factory, React.js.
 - 🌱 Started learning UI technologies and heading towards the Fullstack Developer path.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/omsapate">LinkedIn</a> <a href="https://www.twitter.com/om_sapate">Twitter</a>
 
